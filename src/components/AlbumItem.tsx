@@ -1,5 +1,3 @@
-import React from "react";
-
 type Album = {
   userId: number;
   id: number;
