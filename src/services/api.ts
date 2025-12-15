@@ -1,5 +1,5 @@
 
-
+// GET 
 export async function fetchAlbums() {
     const response = await fetch("https://jsonplaceholder.typicode.com/albums");
     return response.json();
